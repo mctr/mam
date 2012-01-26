@@ -21,16 +21,16 @@ body {
 }
 #ust{}
 #ust img {width:800px;
-	height:200px;}
+	height:300px;}
 #ust_menu{
 	float:left;
-	background:red;
+	background:green;
 	width:800px;
 	text-align:center;}
 #ust_menu ul{}
 #ust_menu ul li{float:left;
 	background:gray;
-	width:250px;
+	width:262px;
 	margin:2px;
 }
 
