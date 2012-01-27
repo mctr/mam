@@ -11,6 +11,23 @@ table{border-collapse: collapse; border-spacing: 0;}
 
 body {
 	background:#f5f5f5;}
+a { color:blue;
+	text-decoration:none;
+	font:bold} 
+a:hover{
+	text-decoration: none;
+	color:red
+}
+img, fieldset{
+    padding: 0px;
+    border: none;
+	margin: 0px;
+	line-height: 0px;
+}
+#prew_img{
+	height: 250px;
+}	
+
 #ana {width:800px;
 	margin:30px auto;
 	background:white;
@@ -19,6 +36,7 @@ body {
 	-webkit-box-shadow:5px 5px 20px black;
 	-moz-box-shadow:5px 5px 20px black;
 }
+
 #ust{}
 #ust img {width:800px;
 	height:300px;}
