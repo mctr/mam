@@ -95,3 +95,20 @@ margin:30px auto 0 auto;
 padding:10px;
 text-align:center;
 font-size:12px;}
+
+
+#footer h3 {
+width: 350px;
+margin: 0px 0px 0px 15px;
+float: left;
+}
+
+#footer p {
+width: 500px;
+float: right;
+text-align: center;
+color: green;
+margin: 0px 0px 0px 0px;
+font-size: 0.8em;
+line-height: 1.2em;
+height: 35px;}
